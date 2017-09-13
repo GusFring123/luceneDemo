@@ -1,0 +1,1 @@
+经测试，IKAnalyser无法使用。
